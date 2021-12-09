@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFrameworks>netcoreapp3.1;netstandard2.1</TargetFrameworks>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Maersk.Integrations.Events.Entities\Maersk.Integrations.Events.Entities.csproj" />
+    </ItemGroup>
+
+</Project>
